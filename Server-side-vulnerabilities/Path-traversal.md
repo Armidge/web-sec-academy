@@ -21,10 +21,10 @@ https://example.com/view?page=....\/....\/....\/var/lib/docker/containers/config
 ```
 
 📚 Referências e/ou leituras recomendadas:
-[OWASP Top 10 2021 – A01: Quebra de Controle de Acesso (pt-BR)](https://owasp.org/Top10/2021/pt-BR/A01_2021-Broken_Access_Control/)
-[OWASP Community – Path Traversal](https://owasp.org/www-community/attacks/Path_Traversal)
-[MITRE CWE-22 – Improper Limitation of a Pathname to a Restricted Directory](https://cwe.mitre.org/data/definitions/22.html)
-[PortSwigger Web Security Academy – File Path Traversal](https://portswigger.net/web-security/file-path-traversal)
+- [OWASP Top 10 2021 – A01: Quebra de Controle de Acesso (pt-BR)](https://owasp.org/Top10/2021/pt-BR/A01_2021-Broken_Access_Control/)
+- [OWASP Community – Path Traversal](https://owasp.org/www-community/attacks/Path_Traversal)
+- [MITRE CWE-22 – Improper Limitation of a Pathname to a Restricted Directory](https://cwe.mitre.org/data/definitions/22.html)
+- [PortSwigger Web Security Academy – File Path Traversal](https://portswigger.net/web-security/file-path-traversal)
 
 ---
 
