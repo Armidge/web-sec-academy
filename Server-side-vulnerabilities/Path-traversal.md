@@ -28,7 +28,7 @@ https://example.com/view?page=....\/....\/....\/var/lib/docker/containers/config
 
 ---
 
-## Lab 1: Exemplo simples de File Path Traversal
+## Lab 1: File path traversal, simple case
 
 > **Objetivo:** baixar o arquivo `/etc/passwd` do servidor.¹
 
