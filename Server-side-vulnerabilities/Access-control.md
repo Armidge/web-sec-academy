@@ -73,7 +73,3 @@ Bem, agora tem
 ¹ Segurança por obscuridade é a prática de proteger um sistema ocultando seus detalhes (códigos, estruturas, endpoints) em vez de usar **controles de segurança reais, mais robustos**. Informações que, dessa forma, são descobertas por enumeração, engenharia reversa, vazamentos, etc.
 
 ² O `robots.txt` é um arquivo na raiz do domínio que instrui crawlers sobre quais caminhos não devem ser indexados ou rastreados. Na prática, esse é um mecanismo, uma convenção entre bots que por vezes, acaba revelando caminhos mais ou menos sensíveis ou que alguém não gostaria que fossem vistos ou indexados por qualquer buscador como o Google.
-
-## Acess-control.md --author
-
-Por Jeyson S. Rodrigues (Armidge). | Email: [jsonsecurity@gmail.com](mailto:jsonsecurity@gmail.com) // 💬 Telegram: [@Armidge](https://t.me/Armidge)
