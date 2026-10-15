@@ -1,4 +1,3 @@
-
 # Access Control
 
 Access Control (Controle de Acesso) é o conjunto de mecanismos que determina quem pode acessar quais recursos e executar quais ações dentro de uma aplicação, aplicando os princípios de autenticação (quem é quem) e autorização (o que se pode fazer). Vulnerabilidades surgem quando essas verificações são ausentes, inconsistentes ou dependem de dados controláveis pelo usuário-cliente (IDs, parâmetros, headers), permitindo falhas como IDOR, Broken Access Control vertical/horizontal e **escalonamento de privilégios**, como exemplificado a diante. A validação deve ocorrer sempre no lado servidor, de forma centralizada e em cada requisição, *sem fé* em controles de interface ou em "segurança por obscuridade"¹.
@@ -75,3 +74,6 @@ Bem, agora tem
 
 ² O `robots.txt` é um arquivo na raiz do domínio que instrui crawlers sobre quais caminhos não devem ser indexados ou rastreados. Na prática, esse é um mecanismo, uma convenção entre bots que por vezes, acaba revelando caminhos mais ou menos sensíveis ou que alguém não gostaria que fossem vistos ou indexados por qualquer buscador como o Google.
 
+## Acess-control.md --author
+
+Por Jeyson S. Rodrigues (Armidge). | Email: [jsonsecurity@gmail.com](mailto:jsonsecurity@gmail.com) // 💬 Telegram: [@Armidge](https://t.me/Armidge)

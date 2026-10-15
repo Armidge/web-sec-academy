@@ -39,3 +39,7 @@ Mas o lugar (ou seja, o diretório) que precisamos acessar está precisamente na
 ---
 
 ¹ O `/etc/passwd` é um arquivo de texto em sistemas Unix/Linux que armazena informações das contas de usuário, como nome, UID, GID, diretório home e shell padrão. Embora não contenha mais os hashes de senhas (migrados para `/etc/shadow`), é de alguma utilidade em possíveis enumerações.
+
+## Path-traversal.md --author
+
+Por Jeyson S. Rodrigues (Armidge). | Email: [jsonsecurity@gmail.com](mailto:jsonsecurity@gmail.com) // 💬 Telegram: [@Armidge](https://t.me/Armidge)
